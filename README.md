@@ -1,15 +1,31 @@
 # Aqua Nexus
 
-**Intelligent Aquarium Management Platform for Marine & Freshwater Systems**
+### The Brain of Your Aquarium
 
-[Live Demo](https://aqua-nexus-kappa.vercel.app)
+**Your aquarium has data. Aqua Nexus turns it into decisions.**
 
-Aqua Nexus is a modern aquarium-management platform designed to bring chemistry, livestock, maintenance, lighting, equipment, feeding, acclimation, emergencies, history, and decision support into one connected experience.
+[Try Aqua Nexus](https://aqua-nexus-kappa.vercel.app) · **Marine + Freshwater** · **Arabic + English** · **PWA**
 
-> **Project status:** Release Candidate / controlled testing  
-> **Source model:** Proprietary — the production source code is maintained in a private repository.
+Aqua Nexus connects chemistry, livestock, maintenance, equipment, lighting, feeding, acclimation, alerts, history, and decision support in one operational platform.
 
----
+> **Current status:** Release Candidate / controlled testing  
+> **Source model:** Proprietary — production source code is maintained privately.
+
+## Product tour
+
+### 1. Tank Health & Next Action
+Aqua Nexus summarizes the current direction of the aquarium, highlights risks, and surfaces the next practical action instead of leaving the user with raw numbers only.
+
+### 2. Alerts → Actions
+Operational alerts are connected to concrete workflows such as restocking consumables, reviewing bioload, and following up on aquarium events.
+
+### 3. Digital Twin 3D
+A visual model of the aquarium and sump helps connect tank dimensions, equipment, water flow, and the broader operating context.
+
+### 4. Smart Dashboard
+Chemistry, maintenance, bioload, tank intelligence, predictions, equipment, memory, and journey history are presented as connected domains rather than isolated pages.
+
+> **Screenshots:** Official launch screenshots are being added to this public showcase. The live application is already available from the link above.
 
 ## Why Aqua Nexus?
 
