@@ -13,19 +13,48 @@ Aqua Nexus connects chemistry, livestock, maintenance, equipment, lighting, feed
 
 ## Product tour
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 1. Tank Health & Next Action
+
 Aqua Nexus summarizes the current direction of the aquarium, highlights risks, and surfaces the next practical action instead of leaving the user with raw numbers only.
 
+<img src="assets/tank-health.jpg" alt="Aqua Nexus Tank Health and next action dashboard" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
 ### 2. Alerts → Actions
+
 Operational alerts are connected to concrete workflows such as restocking consumables, reviewing bioload, and following up on aquarium events.
 
+<img src="assets/action-required.jpg" alt="Aqua Nexus Action Required alert workflow" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 3. Digital Twin 3D
+
 A visual model of the aquarium and sump helps connect tank dimensions, equipment, water flow, and the broader operating context.
 
+<img src="assets/digital-twin-3d.jpg" alt="Aqua Nexus 3D digital twin aquarium view" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
 ### 4. Smart Dashboard
+
 Chemistry, maintenance, bioload, tank intelligence, predictions, equipment, memory, and journey history are presented as connected domains rather than isolated pages.
 
-> **Screenshots:** Official launch screenshots are being added to this public showcase. The live application is already available from the link above.
+<img src="assets/smart-dashboard.jpg" alt="Aqua Nexus smart aquarium dashboard" width="100%">
+
+</td>
+</tr>
+</table>
 
 ## Why Aqua Nexus?
 
